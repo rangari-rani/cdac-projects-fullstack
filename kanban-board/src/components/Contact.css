@@ -1,0 +1,63 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.first{
+    max-width: 600px;
+    width: 100%;
+    
+    padding: 25px 25px 30px;
+    border-radius: 8px;
+    box-shadow:  0 0 10px rgba(99, 32, 192, 0.728);
+    color: #4e4d4d;
+    margin: 25px;
+}
+form h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+form .input-boxes{
+    margin-top: 20px;
+}
+
+.input-boxes .lab {
+    color: #fff;
+}
+.input-boxes .fieldss{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #ddd;
+    outline: none;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 16px;
+    color: #333;
+    margin-top: 8px;
+    color: white;
+}
+.input-boxes .fieldss.mess{
+    height: 200px;
+    resize: none;
+}
+form button {
+    width: 100%;
+    height: 55px;
+    background: rgb(21, 34, 182);
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    cursor: pointer;
+    font-size: 16px;
+    color:#fff;
+    font-weight: 500;
+    margin-top: 25px;
+    transition: .5s;
+}
+ form button:hover{
+    background: #308aea;
+ }
