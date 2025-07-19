@@ -1,8 +1,9 @@
-# React + Vite
+## 📬 Contact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio showcases the projects I built during my Post Graduate Diploma in Advanced Computing (PG-DAC) at CDAC in 2023 — focused on full-stack Java development, clean architecture, and scalable solutions.  
+For my latest work, check the pinned repositories featuring monolithic Spring Boot + React projects.
 
-Currently, two official plugins are available:
+- 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+- 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to explore these projects — each one represents hands-on learning and my transition toward production-grade development.
