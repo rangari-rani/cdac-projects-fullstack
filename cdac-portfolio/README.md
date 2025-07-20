@@ -1,4 +1,4 @@
-# 💼 CDAC Academic Portfolio ![CDAC PG-DAC](https://img.shields.io/badge/CDAC--Nagpur-PG--Diploma-blue)
+# 💼 CDAC Academic Portfolio ![CDAC PG-DAC](https://img.shields.io/badge/CDAC--Nagpur-Postgraduate--Diploma-blue)
 
 A focused collection of full-stack and frontend projects developed during my **Post Graduate Diploma in Advanced Computing (PG-DAC)** at **CDAC – SoftPolynomials, Nagpur** in 2023.  
 
