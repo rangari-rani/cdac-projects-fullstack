@@ -12,12 +12,12 @@ These projects reflect hands-on training in full-stack development using modern 
 
 ## 🧠 Projects Overview
 
-| Project Name              | Type        | Tech Stack                                | Description |
-|---------------------------|-------------|--------------------------------------------|-------------|
-| 🛍️ Project Execution Hub   | Full Stack  | ReactJS, Spring Boot, MySQL, JWT           | Role-based full-stack app for managing users and project assignments |
+| Project Name              | Type          | Tech Stack                                | Description |
+|---------------------------|---------------|--------------------------------------------|-------------|
+| 🛍️ Project Execution Hub   |Full&nbsp;Stack| ReactJS, Spring Boot, MySQL, JWT           | Role-based full-stack app for managing users and project assignments |
 | 🛒 Artisans Collective     | Frontend    | ReactJS, TailwindCSS, Context API          | Frontend eCommerce site with filters, cart logic, and LocalStorage |
 | 🛠️ Kanban Board            | Frontend    | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Interactive task board with column-based drag-and-drop UI |
-| 📚 Holistic Wellbeing      | Full Stack  | MongoDB, ExpressJS, ReactJS, Node.js       | Full-stack platform with authentication and user dashboards |
+| 📚 Holistic Wellbeing      |Full&nbsp;Stack  | MongoDB, ExpressJS, ReactJS, Node.js       | Full-stack platform with authentication and user dashboards |
 
 📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions.
 
