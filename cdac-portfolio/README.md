@@ -1,4 +1,7 @@
-# 💼 CDAC Academic Portfolio ![CDAC PG-DAC](https://img.shields.io/badge/CDAC--Nagpur-Postgraduate--Diploma-blue)
+# 💼 Academic Portfolio – PG-DAC (CDAC Nagpur, India – 2023)  
+[![Built with ReactJS](https://img.shields.io/badge/Built_with-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
+
 
 A focused collection of full-stack and frontend projects developed during my **Post Graduate Diploma in Advanced Computing (PG-DAC)** at **CDAC – SoftPolynomials, Nagpur** in 2023.  
 
@@ -48,8 +51,7 @@ academic-projects-cdac/
 
 ## 📌 Notes
 
-- All projects were developed during CDAC training (March–August 2023).
-- Participated in CDAC centralized placement drives (Sep–Dec 2023) to apply and present these projects.
+- All projects were developed during CDAC training. 
 - Emphasis on clean code, modular architecture, and hands-on problem-solving.
 - Some projects may have limitations due to time constraints — they were designed primarily for learning and skill-building.
 
@@ -62,10 +64,6 @@ academic-projects-cdac/
 
 ## 📬 Contact
 
-This portfolio showcases the projects I built during my Post Graduate Diploma in Advanced Computing (PG-DAC) at CDAC in 2023 — focused on full-stack Java development, clean architecture, and scalable solutions.  
-📌 For my latest work, explore the pinned GitHub repositories featuring production-style monolithic Spring Boot + ReactJS projects.
-
-- 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-- 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
-
-Feel free to explore these projects — each one represents hands-on learning and my transition toward production-grade development.
+This portfolio showcases academic work completed during my **PG-DAC training (2023)**.  
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ If you found this helpful or insightful, feel free to explore and give it a ⭐!
