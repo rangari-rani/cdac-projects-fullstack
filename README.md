@@ -47,7 +47,6 @@ These projects reflect hands-on training in full-stack development using modern 
 - Worked with **MySQL** for relational database schema and queries
 - Performed **CRUD operations** and managed entity relationships using **JPA/Hibernate**
 - Gained introductory exposure to **MongoDB** in a MERN-based project
-  - (Note: While I built the frontend and project structure, backend APIs were largely scaffolded or team-guided.)
 
 ---
 
