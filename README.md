@@ -15,7 +15,7 @@ These projects reflect hands-on training in full-stack development using modern 
 | Project Name              | Tech Stack                                | Description                                                |
 |---------------------------|--------------------------------------------|------------------------------------------------------------|
 | 🛍️ Project Execution Hub   | ReactJS, Spring Boot, MySQL, JWT           | Role-based full-stack app for managing users and project assignments |
-| 🛒 Artisans Collective     | ReactJS, TailwindCSS, Context API          | Frontend eCommerce site with filters, cart logic, and local storage |
+| 🛒 Artisans Collective     | ReactJS, TailwindCSS, Context API          | Frontend eCommerce site with filters, cart logic, and LocalStorage |
 | 🛠️ Kanban Board            | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Interactive task board with column-based drag-and-drop UI |
 | 📚 Holistic Wellbeing      | MongoDB, ExpressJS, ReactJS, Node.js       | Full-stack platform with authentication and user dashboards |
 
@@ -23,14 +23,7 @@ These projects reflect hands-on training in full-stack development using modern 
 
 ---
 
-## 📚 Academic Context
-
-These projects were developed during my **PG-DAC (Post Graduate Diploma in Advanced Computing)** at **CDAC, Nagpur** in **2023**, focused on enterprise-level full-stack development.
-, focused on enterprise-level full-stack development.
-
-They helped me strengthen key development skills across:
-
----
+## 📚 Technical Highlights from PG-DAC
 
 ### 🎨 Frontend Development
 
@@ -69,7 +62,8 @@ They helped me strengthen key development skills across:
 
 ---
 
-📌 I’m currently focused on mastering **Java + Spring Boot**, **ReactJS**, and **MySQL** — and actively building **monolithic applications** with scalable architecture.
+🔄 I’m currently deepening my expertise in **Java (Spring Boot)**, **ReactJS**, and **MySQL** — with a strong focus on building scalable, maintainable full-stack applications that follow clean architecture and real-world development practices.
+📌 Check my pinned GitHub repositories for the latest updates and new projects.
 
 ---
 
@@ -82,9 +76,6 @@ They helped me strengthen key development skills across:
 ## 📬 Contact
 
 This repository features academic work from my CDAC training in 2023.  
-For my latest professional projects and career updates:
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ This repository includes multiple full-stack projects. Feel free to explore it for reference. If you found it helpful, consider giving it a star!
 
-- 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-- 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
-
-Feel free to explore these repositories for reference, learning, or collaboration.
