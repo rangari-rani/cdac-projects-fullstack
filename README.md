@@ -76,4 +76,4 @@ Deepening my Spring Boot + ReactJS expertise by building real-world, modular ful
 
 This repository features academic work from my CDAC training in 2023.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ Feel free to explore the projects for reference. If you found them helpful, consider giving a star!
+⭐ Feel free to explore the projects for reference. If you found them helpful, consider giving a ⭐!
