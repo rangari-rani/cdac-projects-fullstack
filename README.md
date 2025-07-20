@@ -77,4 +77,4 @@ These projects reflect hands-on training in full-stack development using modern 
 
 This repository features academic work from my CDAC training in 2023.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ This repository includes multiple projects. Feel free to explore it for reference. If you found it helpful, consider giving it a star!
+⭐ Feel free to explore the projects for reference. If you found them helpful, consider giving a star!
