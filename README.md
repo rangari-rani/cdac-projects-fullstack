@@ -59,8 +59,10 @@ These projects reflect hands-on training in full-stack development using modern 
 
 ---
 
-🔄 I’m currently deepening my expertise in **Java (Spring Boot)**, **ReactJS**, and **MySQL** — with a strong focus on building scalable, maintainable full-stack applications that follow clean architecture and real-world development practices.
-📌 Check my pinned GitHub repositories for the latest updates and new projects.
+## 🚀 Learning & Development Focus  
+
+Deepening my Spring Boot + ReactJS expertise by building real-world, modular full-stack applications.  
+📌 Check out pinned repositories for the latest projects!
 
 ---
 
