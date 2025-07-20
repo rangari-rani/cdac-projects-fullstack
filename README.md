@@ -59,7 +59,7 @@ These projects reflect hands-on training in full-stack development using modern 
 
 ---
 
-## 🚀 Learning & Development Focus  
+## 📚 Current Tech Focus
 
 Deepening my Spring Boot + ReactJS expertise by building real-world, modular full-stack applications.  
 📌 Check out pinned repositories for the latest projects!
