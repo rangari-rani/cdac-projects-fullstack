@@ -7,19 +7,28 @@ import CTA from '../components/CTA'
 const About = () => {
   return (
     <section className="max-container">
-      <h1 className="head-text">
-        Hello, I'm <span className="blue-gradient_text font-semibold drop-shadow">Rani Rangari</span>
-      </h1>
+      <div className="max-w-2xl mx-auto text-center text-slate-500">
+<h1 className="head-text mb-4">
+  Hello, I'm <span className="blue-gradient_text font-semibold drop-shadow">Rani Rangari</span>
+</h1>
 
-      <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>
-          I'm a developer from Nagpur, India and this site was originally built during my <strong>CDAC learning phase in 2023</strong>.
-          I started picking up frontend and design basics here, and have since evolved to build more solid full-stack projects.
-        </p>
-        <p>
-          This portfolio remains a fun archive of how it all began — complete with animations, playful UI, and my first React experiences!
-        </p>
-      </div>
+
+  <p className="mt-5">
+    I'm a developer from <strong> Nagpur, India </strong>, and this portfolio features the projects I built during my
+    <strong> CDAC (Centre for Development of Advanced Computing)</strong> training – Postgraduate Diploma in Advanced Computing, 2023.
+  </p>
+ <br/>
+  <p>
+    After completing my <strong>MCA (Master in Computer Applications) in 2022</strong>, CDAC helped me apply those foundations to
+    <strong> industry-level, real-world projects</strong> — from scalable web apps to robust backend systems and secure REST APIs.
+  </p>
+
+<br/>
+  <p>
+    <em>Code matured, skills sharpened — this portfolio marks my transition toward production-grade engineering.</em>
+  </p>
+</div>
+
 
       <div className="py-10 flex flex-col">
         <h3 className="subhead-text">My Skills (at the time)</h3>

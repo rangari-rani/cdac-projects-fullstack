@@ -13,7 +13,7 @@ const Projects = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          These projects were built during my early learning phase to strengthen hands-on skills.
+        Developed during CDAC, these projects showcase my shift from academic theory to hands-on, real-world software development.
         </p>
       </div>
 
@@ -32,14 +32,16 @@ const Projects = () => {
             </div>
 
             <div className='mt-5 flex flex-col'>
-              <h4 className='text-2xl font-poppins font-semibold'>
-                {project.name}
-              </h4>
+  <h4 className='text-2xl font-poppins font-semibold'>
+    {project.name}
+  </h4>
 
-              <p className='mt-5 flex items-center gap-2 font-poppins'>
-                {project.description}
-              </p>
-
+  <ul className="mt-3 list-disc ml-4 text-sm text-slate-600">
+    {project.description.map((point, i) => (
+      <li key={`desc-${i}`}>{point}</li>
+    ))}
+    <li><strong>Tech Stack:</strong> {project.techStack}</li>
+  </ul>
               <div className='flex gap-4 mt-3 items-center'>
                 {project.demo?.trim() && (
                   <Link
@@ -79,3 +81,4 @@ const Projects = () => {
 }
 
 export default Projects
+ 

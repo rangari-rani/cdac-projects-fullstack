@@ -95,31 +95,34 @@ export const skills = [
 ];
 
 export const experiences = [
-     {
+  {
     title: "Post Graduate Diploma in Advanced Computing (PG-DAC)",
     company_name: "CDAC – SoftPolynomials, Nagpur",
     icon: cdac, 
     iconBg: "#d0e6ff",
     date: "March 2023 – August 2023",
     points: [
-      "Completed 6-month intensive Java full-stack training under CDAC, covering core and advanced computing subjects.",
-      "Gained hands-on experience in React, Java, Spring Boot, and MySQL.",
-      "Developed a Java Swing-based room rental management system using JDBC and MySQL.",
-      "Academic exposure to core CS fundamentals such as Data Structures, DBMS, and Operating Systems.",
+      "Completed a 6-month intensive Java full-stack training under CDAC, covering core and advanced computing subjects.",
+      "Gained hands-on experience in Java, Spring Boot, MySQL, and frontend development with ReactJS.",
+      "Academic exposure to core computer science fundamentals such as Data Structures, DBMS, and OS.",
+      "Participated in centralized placement drives organized by CDAC Pune from September to December 2023.",
     ],
   },
-    {
+  
+  {
     title: "Java Developer Intern",
     company_name: "Percept Infosystem Consultants, Nagpur",
     icon: percept,
     iconBg: "#ffcc99",
-    date: "January 2022 - June 2022",
+    date: "January 2022 – June 2022",
     points: [
-        "Validated request-response cycles through Postman to ensure stable API communication.",
-        "Wrote and optimized SQL queries for robust relational data handling in MySQL.",
-      "Used Git for version control and effective codebase collaboration.",
+      "Assisted in building and debugging Java-based backend modules for internal tools and client projects.",
+      "Validated REST APIs using Postman to ensure smooth request–response handling and accurate data flow.",
+      "Wrote and optimized SQL queries for efficient data manipulation and retrieval in MySQL.",
+      "Used Git for version control and collaborated with team members to maintain codebase consistency.",
     ],
   },
+  
   {
     title: "Process Associate",
     company_name: "Tata Consultancy Services, Nagpur",
@@ -146,7 +149,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/ranirangari',
+        link: 'https://github.com/rangari-rani',
     },
     {
         name: 'LinkedIn',
@@ -156,55 +159,54 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    {
-  iconUrl: house, 
-  theme: 'btn-back-green',
-  name: 'Old Portfolio (MCA + CDAC Phase)',
-  description:
-    'Built during my MCA/CDAC learning phase to showcase early projects. This portfolio is outdated — please visit the latest version below.',
-  github: 'https://github.com/rangari-rani',
-  demo: 'https://rani-rangari-portfolio.vercel.app/',
-},
-
-  {
-    iconUrl: house,
-    theme: 'btn-back-green',
-    name: 'Weather Application',
-    description: "Built with React and OpenWeatherMap API. Shows current weather and forecast based on user location with timezone support.",
-    github: 'https://github.com/ranirangari/weather-app',
-    demo: 'https://weather-glance-three.vercel.app/',
-  },
-    {
-  iconUrl: house, 
-  theme: 'btn-back-yellow',
-  name: 'StreamPlay',
-  description: "Music streaming app with playback controls and random quote generator. Built with React, CSS animations, and custom hooks.",
-  github: 'https://github.com/rangari-rani/streamplay', 
-  demo: 'https://streamplay-pi.vercel.app/', 
-},
-{
-  iconUrl: house, 
-  theme: 'btn-back-red',
-  name: 'StayMate (Java Desktop App - — no live preview)',
-  description: "Java Swing-based desktop app for managing room rentals. Admin can add/remove owners & tenants with full CRUD operations. Used JDBC and MySQL with a clean Swing-based UI.",
-  github: 'https://github.com/rangari-rani/StayMate', 
-  demo: '', 
-},
-
   {
     iconUrl: house,
     theme: 'btn-back-blue',
-    name: 'Sorting Visualizer',
-    description: "Built with React and CSS to visualize core sorting algorithms (Bubble, Merge, Quick, Heap, etc.). Focused on animation logic, React state management, and rendering performance.",
-    github: 'https://github.com/rangari-rani/visualizer',
-    demo: 'https://visualizer-blush.vercel.app/',
+    name: 'Project Management System',
+    description: [
+      "Java Full Stack app to manage users, roles, and projects with full CRUD functionality.",
+      "Features Spring Boot backend, JWT auth, role-based access, and MySQL integration.",
+    ],
+    techStack: "ReactJS, Spring Boot, MySQL, JWT, REST API",
+    github: 'https://github.com/rangari-rani/project-management-app',
+    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
+  },
+  {
+    iconUrl: house,
+    theme: 'btn-back-green',
+    name: 'Artisans Collective',
+    description: [
+      "Frontend-only eCommerce platform with product filters, cart, and checkout pages.",
+      "Preloaded image/product data with smooth navigation and localStorage support.",
+    ],
+    techStack: "ReactJS, TailwindCSS, Context API",
+    github: 'https://github.com/rangari-rani/react-ecommerce',
+    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
+  },
+  {
+    iconUrl: house,
+    theme: 'btn-back-yellow',
+    name: 'Kanban Board',
+    description: [
+      "Drag-and-drop task management board similar to Trello.",
+      "Supports multiple columns and task persistence with local state.",
+    ],
+    techStack: "ReactJS, HTML5 Drag & Drop, TailwindCSS",
+    github: 'https://github.com/rangari-rani/kanban-board',
+    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
   },
   {
     iconUrl: house,
     theme: 'btn-back-pink',
-    name: 'Dijkstra Algorithm',
-    description: "Visualizes Dijkstra’s shortest path algorithm between two points. React-based pathfinding logic with dynamic grid and step-by-step transitions.",
-    github: 'https://github.com/rangari-rani/dijikstra-algo',
-    demo: 'https://dijikstra-algorithm.vercel.app/',
-  }
+    name: 'Holistic Wellbeing',
+    description: [
+      "Full-stack Learning Management System with auth, course content, and user dashboards.",
+      "Covers user roles (admin, student), JWT-based auth, and secure APIs.",
+    ],
+    techStack: "MongoDB, ExpressJS, ReactJS, Node.js",
+    github: 'https://github.com/rangari-rani/mern-lms',
+    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
+  },
+ 
+
 ];
