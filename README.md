@@ -19,7 +19,7 @@ These projects reflect hands-on training in full-stack development using modern 
 | 🛠️ Kanban Board            | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Interactive task board with column-based drag-and-drop UI |
 | 📚 Holistic Wellbeing      | MongoDB, ExpressJS, ReactJS, Node.js       | Full-stack platform with authentication and user dashboards |
 
-📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, and usage instructions.
+📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions.
 
 ---
 
