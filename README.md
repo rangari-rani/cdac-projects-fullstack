@@ -57,4 +57,4 @@ Currently focused on building modular, production-grade full-stack applications 
 
 This repository features academic work from my PG-DAC program in 2023.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider giving a ⭐!
+⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider leaving a ⭐!
