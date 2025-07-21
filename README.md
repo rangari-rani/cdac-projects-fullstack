@@ -5,9 +5,7 @@ Welcome to my collection of academic projects developed during the **Post Gradua
 
 These projects reflect practical, hands-on training in full-stack development using modern frameworks like ReactJS, Spring Boot, and the MERN stack.
 
-
-> 📌 View the CDAC Project Portfolio UI:  
-> [🌐 cdac-ranirangari-portfolio.vercel.app](https://cdac-ranirangari-portfolio.vercel.app/) 
+> 🌐 View the full MCA Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
 
 ---
 
@@ -18,11 +16,11 @@ These projects reflect practical, hands-on training in full-stack development us
 | 🍱[Food&nbsp;Fusion](./food-fusion)         | Full&nbsp;Stack | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
 | 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Interactive task board with column-based drag-and-drop UI |
 
-📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions.
+📁 Each project folder includes a `README.md` with system architecture, tech stack, features, screenshots, and setup instructions.
 
 ---
 
-## 🧠 Technical Highlights from PG-DAC
+## 💡 Technical Skills Built During PG-DAC Projects
 
 ### 🛠️ Full-Stack Development (MERN)
 
@@ -41,10 +39,21 @@ These projects reflect practical, hands-on training in full-stack development us
 
 ---
 
-## 📚 Current Tech Focus
+## 📚 Current Tech Focus  
 
-Currently focused on building modular, production-grade full-stack applications using Spring Boot and ReactJS.  
-📌 Visit my pinned repositories to explore current, real-world full-stack apps built beyond the academic phase.
+Building modular, production-grade apps using Spring Boot + ReactJS.  
+📌 See pinned repositories for post-academic, real-world projects.
+
+---
+
+## 🧠 Reflection: Why These Projects Matter
+
+These projects helped me:
+
+- Gain confidence in full-stack development beyond academic setups  
+- Work with backend frameworks, frontend libraries, and REST APIs  
+- Collaborate using Git/GitHub workflows  
+- Explore modular architecture and clean code structure
 
 ---
 
