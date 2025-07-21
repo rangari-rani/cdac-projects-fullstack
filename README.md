@@ -42,7 +42,7 @@ These projects reflect practical, hands-on training in full-stack development us
 ## 📚 Current Tech Focus  
 
 Building modular, production-grade apps using Spring Boot + ReactJS.  
-📌 See pinned repositories for post-academic, real-world projects.
+📌 Visit my pinned repositories to explore how CDAC projects evolved into real-world full-stack applications.
 
 ---
 
