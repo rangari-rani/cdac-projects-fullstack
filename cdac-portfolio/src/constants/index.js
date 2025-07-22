@@ -1,7 +1,6 @@
 
 import { tcs , percept, cdac} from "../assets/images";
 import {
-    weather,
     cplus,
     c,
     springboot,
@@ -9,19 +8,12 @@ import {
     java,
     contact,
     css,
-    estate,
-    git,
     github,
     html,
     javascript,
     linkedin,
-    mongodb,
     mui,
-    pricewise,
     react,
-    redux,
-    snapgram,
-    summiz,
     tailwindcss,
     house,
 
@@ -97,27 +89,25 @@ export const skills = [
 export const experiences = [
   {
     title: "Post Graduate Diploma in Advanced Computing (PG-DAC)",
-    company_name: "CDAC – SoftPolynomials, Nagpur",
+    company_name: "CDAC – SoftPolynomials, Nagpur, India",
     icon: cdac, 
     iconBg: "#d0e6ff",
     date: "March 2023 – August 2023",
     points: [
       "Completed a 6-month intensive Java full-stack training under CDAC, covering core and advanced computing subjects.",
-      "Gained hands-on experience in Java, Spring Boot, MySQL, and frontend development with ReactJS.",
+      "Gained hands-on experience in full-stack development using Java, Spring Boot, ReactJS, and MySQL database.",
       "Academic exposure to core computer science fundamentals such as Data Structures, DBMS, and OS.",
-      "Participated in centralized placement drives organized by CDAC Pune from September to December 2023.",
     ],
   },
   
   {
     title: "Java Developer Intern",
-    company_name: "Percept Infosystem Consultants, Nagpur",
+    company_name: "Percept Infosystem Consultants, Nagpur, India",
     icon: percept,
     iconBg: "#ffcc99",
     date: "January 2022 – June 2022",
     points: [
-      "Assisted in building and debugging Java-based backend modules for internal tools and client projects.",
-      "Validated REST APIs using Postman to ensure smooth request–response handling and accurate data flow.",
+      "Assisted in developing and debugging Java-based backend modules as part of a team during internship training.",
       "Wrote and optimized SQL queries for efficient data manipulation and retrieval in MySQL.",
       "Used Git for version control and collaborated with team members to maintain codebase consistency.",
     ],
@@ -125,7 +115,7 @@ export const experiences = [
   
   {
     title: "Process Associate",
-    company_name: "Tata Consultancy Services, Nagpur",
+    company_name: "Tata Consultancy Services, Nagpur, India",
     icon: tcs,
     iconBg: "#fffdd0",
     date: "August 2020 - September 2021",
@@ -159,54 +149,32 @@ export const socialLinks = [
 ];
 
 export const projects = [
+  
   {
     iconUrl: house,
-    theme: 'btn-back-blue',
-    name: 'Project Management System',
-    description: [
-      "Java Full Stack app to manage users, roles, and projects with full CRUD functionality.",
-      "Features Spring Boot backend, JWT auth, role-based access, and MySQL integration.",
-    ],
-    techStack: "ReactJS, Spring Boot, MySQL, JWT, REST API",
-    github: 'https://github.com/rangari-rani/project-management-app',
-    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
-  },
-  {
-    iconUrl: house,
-    theme: 'btn-back-green',
-    name: 'Artisans Collective',
-    description: [
-      "Frontend-only eCommerce platform with product filters, cart, and checkout pages.",
-      "Preloaded image/product data with smooth navigation and localStorage support.",
-    ],
-    techStack: "ReactJS, TailwindCSS, Context API",
-    github: 'https://github.com/rangari-rani/react-ecommerce',
-    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
+    theme: 'btn-back-pink',
+    name: 'Kanban Board',
+description: [
+  "A task management tool that visualizes workflow using draggable columns and cards.",
+  "Users can freely move both entire columns and individual tasks to reflect progress and priority.",
+],
+
+    techStack: "ReactJS, TailwindCSS",
+    github: 'https://github.com/rangari-rani/academic-projects-cdac/tree/master/kanban-board',
+    demo: 'https://kanban-board-flowtask.vercel.app/',
   },
   {
     iconUrl: house,
     theme: 'btn-back-yellow',
-    name: 'Kanban Board',
+    name: 'Food Fusion',
     description: [
-      "Drag-and-drop task management board similar to Trello.",
-      "Supports multiple columns and task persistence with local state.",
-    ],
-    techStack: "ReactJS, HTML5 Drag & Drop, TailwindCSS",
-    github: 'https://github.com/rangari-rani/kanban-board',
-    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
-  },
-  {
-    iconUrl: house,
-    theme: 'btn-back-pink',
-    name: 'Holistic Wellbeing',
-    description: [
-      "Full-stack Learning Management System with auth, course content, and user dashboards.",
-      "Covers user roles (admin, student), JWT-based auth, and secure APIs.",
+      "Full-stack Food Delivery App with auth, user flow and admin panel.",
+      "It showcases UI state handling, routing, cart logic, and Stripe integration.",
     ],
     techStack: "MongoDB, ExpressJS, ReactJS, Node.js",
-    github: 'https://github.com/rangari-rani/mern-lms',
-    demo: 'https://github.com/rangari-rani/project-management-app', // Add if deployed
+    github: 'https://github.com/rangari-rani/academic-projects-cdac/tree/master/Food-Fusion-mern',
+    demo: 'https://food-ordering-frontend-wu7u.onrender.com/', // Add if deployed
   },
  
-
+  
 ];
