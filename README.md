@@ -5,7 +5,7 @@ Welcome to my collection of academic projects developed during the **Post Gradua
 
 These projects reflect practical, hands-on training in full-stack development using modern frameworks like ReactJS, Spring Boot, and the MERN stack.
 
-> 🌐 View the full CDAC Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
+> 🌐 View the full CDAC Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://cdac-ranirangari-portfolio.vercel.app/)
 
 ---
 
@@ -34,15 +34,16 @@ These projects reflect practical, hands-on training in full-stack development us
 ### 🎨 Frontend Engineering (React)
 
 - Built responsive, component-based UI for the **Kanban Board** using **ReactJS** and **Tailwind CSS**
-- Applied **HTML5 Drag and Drop API** to manage tasks across columns dynamically
-- Focused on clean visual layout and intuitive UX
+- A task management tool that visualizes workflow using draggable columns and cards.
+- Users can freely move both entire columns and individual tasks to reflect progress and priority.
 
 ---
 
 ## 📚 Current Tech Focus  
 
-Building modular, production-grade apps using Spring Boot + ReactJS.  
-📌 Visit my pinned repositories to explore how the skills developed during CDAC evolved into independent full-stack projects.
+Building modular, production-grade apps using Spring Boot + ReactJS.   
+
+📌 **Explore my pinned GitHub repositories to see how the skills gained during CDAC evolved into independent full-stack platforms.** 
 
 ---
 
