@@ -5,7 +5,7 @@ Welcome to my collection of academic projects developed during the **Post Gradua
 
 These projects reflect practical, hands-on training in full-stack development using modern frameworks like ReactJS, Spring Boot, and the MERN stack.
 
-> 🌐 View the full MCA Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
+> 🌐 View the full CDAC Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
 
 ---
 
