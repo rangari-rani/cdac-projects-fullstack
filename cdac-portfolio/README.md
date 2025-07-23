@@ -3,11 +3,12 @@
 [![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
 
 
-A focused collection of full-stack and frontend projects developed during my **Post Graduate Diploma in Advanced Computing (PG-DAC)** at **CDAC – SoftPolynomials, Nagpur** in 2023.  
+A focused collection of full-stack and frontend projects built during and after my Post Graduate Diploma in Advanced Computing (PG-DAC) at **CDAC – SoftPolynomials, Nagpur** in 2023.
 
 This compilation reflects my transition from academic learning to building industry-aligned, full-stack applications using modern tools and clean architectural practices.
 
 > ✨ From core programming to full-stack development — CDAC helped bridge theory with hands-on, industry-relevant project experience.
+> 🕒 Originally built in 2023 and later organized, refined, and published for clarity, learning, and portfolio presentation.
 
 ---
 
@@ -17,14 +18,13 @@ This compilation reflects my transition from academic learning to building indus
 
 ---
 
-## 🧠 Projects Overview
+## 📁 Projects Overview
 
-| Project Name                 | Tech Stack                                | Description                                                |
-|-----------------------------|--------------------------------------------|------------------------------------------------------------|
-| 🛍️ Project Execution Hub    | ReactJS, Spring Boot, MySQL, JWT           | Role-based full-stack app to manage users and projects     |
-| 🛒 Artisans Collective       | ReactJS, TailwindCSS, Context API          | Frontend eCommerce with filters, cart, and local storage   |
-| 🛠️ Kanban Board              | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Trello-like drag-and-drop task board                       |
-| 📚 Holistic Wellbeing    | MongoDB, ExpressJS, ReactJS, Node.js       | Full-stack LMS with JWT auth and user role-based dashboards|
+| Project Name                             | Type         | Tech Stack                                | Description |
+|----------------------------------------- |--------------|--------------------------------------------|-------------|
+| 🍱[Food&nbsp;Fusion](./food-fusion)         | Full&nbsp;Stack | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
+| 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, TailwindCSS    | Interactive task board with column, task-based drag-and-drop UI |
+
 ---
 
 ## 🛠️ Tech Stack Summary
@@ -40,18 +40,14 @@ This compilation reflects my transition from academic learning to building indus
 
 ```bash
 academic-projects-cdac/
-├── artisans-collective/
-├── holistic-wellbeing/
+├── Food-Fusion-mern/
 ├── kanban-board/
-├── project-management-system/
 └── README.md
 ```
 
 ---
 
-## 📌 Notes
-
-- All projects were developed during CDAC training. 
+## 📌 Notes  
 - Emphasis on clean code, modular architecture, and hands-on problem-solving.
 - Some projects may have limitations due to time constraints — they were designed primarily for learning and skill-building.
 
@@ -62,8 +58,8 @@ academic-projects-cdac/
 
 ---
 
-## 📬 Contact
+## 📬 Contact  
 
-This portfolio showcases academic work completed during my **PG-DAC training (2023)**.  
+This portfolio showcases projects built during and after my **PG-DAC training (2023)**.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this helpful or insightful, feel free to explore and give it a ⭐!
+⭐ If you found it helpful or inspiring, feel free to leave a ⭐!
