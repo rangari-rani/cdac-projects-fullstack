@@ -15,13 +15,13 @@
 
 ## 📚 About This Project
 
-**Food Fusion** was built after completing my **PG-DAC training at CDAC (2023)** as a hands-on dive into the **MERN stack**, which was part of the course curriculum. The goal was to strengthen full-stack fundamentals through a practical, real-world food delivery system.
+**Food Fusion** is a full-stack food delivery app built in 2024, after completing my **PG-DAC training at CDAC (2023)**. It was developed independently by following a guided YouTube series to strengthen my MERN stack skills through a hands-on, real-world project.
 
 Key highlights include:
 - Role-based access (User/Admin) with secure JWT authentication
 - Dynamic food menu and cart functionality
 - Stripe-powered checkout flow
-- Admin dashboard for managing orders and food items  
+- Admin dashboard for managing orders and food items    
 
 > 📄 [Certificate of Completion – GreatStack, August 7, 2024](https://github.com/rangari-rani/academic-projects-cdac/blob/b38fb4c6f92f5fa2a5ebb13417d6880805e4dfb6/Food-Fusion-mern/Food-delivery-Greatstack.png)  
 > 🛡️ Includes a scannable barcode verifying authenticity.  
@@ -76,7 +76,7 @@ _Login Page_
 
 ## 🔄 What Came Next
 
-This project was my first complete full-stack build, combining both frontend and backend logic in a real-world use case—user registration, authentication, cart flow, and admin controls.
+This project is a complete full-stack build, combining both frontend and backend logic in a real-world use case—user registration, authentication, cart flow, and admin controls.
 
 After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
 
@@ -148,6 +148,6 @@ npm run dev
 
 ## 📬 Contact
 
-Built during my post-CDAC full-stack practice phase (2024).  
+Built as part of my full-stack learning journey after completing CDAC (2023).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
