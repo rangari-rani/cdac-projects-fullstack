@@ -1,31 +1,24 @@
-# 🍔 Food Fusion – Backend (Node.js + Express)
+# 🍽️ Food Fusion – Backend (Node.js + Express)
 
-This is the **Node.js + Express backend** for the Food Delivery App built during my MCA (2022) using the MERN stack.  
-🔧 It handles user authentication, order placement, cart management, and integrates with Stripe for secure payment processing.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Features
-
-- 🔐 **JWT-based Authentication** – Signup & login APIs
-- 🛒 **Cart API** – Add/remove food items
-- 📦 **Order Management** – Save order details and user delivery info
-- 💳 **Stripe Integration** – Handles checkout and payment sessions
-- 🌐 **MongoDB** – Stores user data, cart items, and orders
+This is the **backend application** of Food Fusion, built with **Node.js**, **Express**, and **MongoDB**. It manages RESTful APIs for authentication, user/admin roles, product handling, order processing, and integrates **Stripe** for secure payments.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-- **[Node.js](https://nodejs.org/)** – JavaScript runtime for building scalable backend services  
-- **[Express.js](https://expressjs.com/)** – Fast, unopinionated backend framework  
-- **[MongoDB](https://www.mongodb.com/)** + **[Mongoose](https://mongoosejs.com/)** – NoSQL database and object modeling  
-- **[JWT](https://jwt.io/)** – Token-based authentication for secure login sessions  
-- **[Stripe API](https://stripe.com/in)** – Secure payment processing and checkout  
-- **[Multer](https://github.com/expressjs/multer)** – Middleware for handling `multipart/form-data`, used for image uploads  
-- **[dotenv](https://www.npmjs.com/package/dotenv)** – Load environment variables from `.env` file  
-- **[cors](https://www.npmjs.com/package/cors)** – Enable Cross-Origin Resource Sharing for frontend-backend communication  
-- **[bcryptjs](https://www.npmjs.com/package/bcryptjs)** – Hash user passwords before saving to the database
+- **[Node.js](https://nodejs.org/)** – JavaScript runtime environment  
+- **[Express.js](https://expressjs.com/)** – Backend web framework  
+- **[MongoDB](https://www.mongodb.com/)** – NoSQL database  
+- **[Mongoose](https://mongoosejs.com/)** – MongoDB ODM for schema & queries  
+- **[JWT](https://jwt.io/)** – Authentication using JSON Web Tokens  
+- **[Bcrypt.js](https://www.npmjs.com/package/bcryptjs)** – Password hashing  
+- **[Stripe](https://stripe.com/)** – Payment integration  
 
 ---
 
@@ -34,10 +27,10 @@ This is the **Node.js + Express backend** for the Food Delivery App built during
 ```text
 backend/
 ├── config/           → MongoDB connection setup (e.g., db.js)
-├── controllers/      → Business logic for routes (auth, cart, orders, etc.)
-├── middleware/       → Custom middleware like JWT auth validator
-├── models/           → Mongoose schemas for User, Product, and Order
-├── routes/           → Route definitions for API endpoints (auth, cart, orders)
+├── controllers/      → Business logic for routes (cart, food, order, user)
+├── middleware/       → auth.js
+├── models/           → Mongoose schemas for food, order, user
+├── routes/           → Route definitions for API endpoints (cart, food, order, user)
 ├── uploads/          → Folder to store uploaded files (e.g., product images)
 ├── .env.example      → Sample environment file for required secrets
 ├── server.js         → Main server entry point that runs the Express app
@@ -45,23 +38,49 @@ backend/
 
 ---
 
-## 📬 Sample API Endpoints
+## 📮 API Endpoints
 
-| Method | Endpoint                       | Description              |
-| ------ | ------------------------------ | ------------------------ |
-| POST   | `/api/register`                | Register a new user      |
-| POST   | `/api/login`                   | Login and get JWT token  |
-| POST   | `/api/cart`                    | Add/update cart items    |
-| GET    | `/api/cart`                    | Get cart for logged user |
-| POST   | `/api/order`                   | Place a new order        |
-| GET    | `/api/orders/:id`              | Get user's past orders   |
-| POST   | `/api/create-checkout-session` | Create Stripe session    |  
+### 👤 User
 
-🔐 Secured endpoints require an Authorization: Bearer <token> header.  
+| Method | Endpoint             | Description             |
+|--------|----------------------|-------------------------|
+| POST   | `/api/user/register` | Register a new user     |
+| POST   | `/api/user/login`    | Log in an existing user |
+
+### 🍽️ Food
+
+| Method | Endpoint           | Description                     |
+|--------|--------------------|---------------------------------|
+| POST   | `/api/food/add`    | Add a new food item (with image)|
+| GET    | `/api/food/list`   | Get list of all food items      |
+| POST   | `/api/food/remove` | Remove a food item              |
+
+### 🛒 Cart
+
+| Method | Endpoint            | Description           |
+|--------|---------------------|-----------------------|
+| POST   | `/api/cart/add`     | Add item to cart      |
+| POST   | `/api/cart/remove`  | Remove item from cart |
+| POST   | `/api/cart/get`     | Get all cart items    |
+
+### 📦 Orders
+
+| Method | Endpoint               | Description                     |
+|--------|------------------------|---------------------------------|
+| POST   | `/api/order/place`     | Place a new order               |
+| POST   | `/api/order/verify`    | Verify Stripe payment session   |
+| POST   | `/api/order/userorders`| Get orders of logged-in user    |
+| GET    | `/api/order/list`      | Get all orders (admin)          |
+| POST   | `/api/order/status`    | Update order status             |
+
+🔐 Secured endpoints require an `Authorization: Bearer <token>` header. 
 
 ---
 
-## 🔧 Environment Setup
+## 🔧 Environment Setup  
+
+> MongoDB set up locally or using MongoDB Atlas  
+> Node.js and npm installed
 
 ### 1. Create a `.env` file in `/backend` with the following:
 
@@ -72,7 +91,7 @@ JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
 ```
 
-### 2. Install dependencies:
+### 2. Install Dependencies:
 
 ```bash
 npm install
@@ -81,28 +100,21 @@ npm install
 ### 3. Start backend server:
 
 ```bash
-npm run start
+npm start
 ```
 
----
-
-## 🧾 Academic Note  
-
-- 🔍 This backend was originally built during my MCA (2022) to learn Express.js, secure APIs, and payment flow integration.
-📢 I’m now focused on building Java + Spring Boot full-stack projects with real-world architecture and API design.
-- 📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+> The backend should now be running on:
+> ➡️ http://localhost:4000/api
 
 ---
 
 ## 📜 License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE)  
 
 ---
 
 ## 📬 Contact
-
--  Feel free to explore my latest work on GitHub or LinkedIn! 
-- 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this project helpful, consider giving it a star!
-
+     
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
+⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
