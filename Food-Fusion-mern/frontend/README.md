@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-This is the **frontend** portion of the **Food Fusion** food delivery web app, built using **React.js**, **Vite**, and **Tailwind CSS**. It enables users to browse food items, add to cart, log in/register, and place orders using the Stripe payment gateway.
+This is the **frontend application** of Food Fusion, a MERN-based food delivery platform. Built with **React.js**, **Vite**. It allows users to explore food items, manage carts, register/login, and complete orders via **Stripe**.
 
 ---
 
