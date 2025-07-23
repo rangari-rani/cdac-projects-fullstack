@@ -2,7 +2,7 @@
 
 Welcome to my collection of academic projects developed during the **Post Graduate Diploma in Advanced Computing (PG-DAC)** program at **SoftPolynomials, Nagpur** — an authorized training center under **CDAC (Centre for Development of Advanced Computing)** in 2023.  
 > 🕒 _This repository includes full-stack projects aligned with the PG-DAC 2023 curriculum._   
-> 💡 _While Java + Spring Boot remains my primary backend focus, I also explored MERN-based projects post-training to reinforce architecture and API development skills._   
+> 💡 _ Some implementations were refined post-training to reinforce concepts and expand hands-on experience._   
 > 📚 _Later organized and published for transparency, learning, and portfolio presentation._  
 
 > 🌐 View the full CDAC Portfolio UI: [cdac-ranirangari-portfolio.vercel.app](https://cdac-ranirangari-portfolio.vercel.app/)
