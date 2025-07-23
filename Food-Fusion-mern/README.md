@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 Live Demo – [Try it on Render](https://food-ordering-frontend-wu7u.onrender.com/)
-
 ---
 
 ## 📚 About This Project
