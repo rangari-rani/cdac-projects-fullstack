@@ -11,23 +11,31 @@ Welcome to my collection of academic projects developed during the **Post Gradua
 
 ## 📁 Projects Overview
 
-| Project Name                             | Type         | Tech Stack                                | Description |
-|----------------------------------------- |--------------|--------------------------------------------|-------------|
-| 🍱[Food&nbsp;Fusion](./food-fusion)         | Full&nbsp;Stack | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
-| 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, TailwindCSS    | Interactive task board with column, task-based drag-and-drop UI |
+| Project Name                               | Type         | Tech Stack                                | Description |
+|-------------------------------------------|--------------|--------------------------------------------|-------------|
+| 🍱 [Food Fusion](./food-fusion)              | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
+| 🧘‍♀️[Holistic Wellbeing](./holistic-wellbeing) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js       | Wellness course platform with student/instructor roles, Stripe integration, and video handling via Cloudinary |
+| 🧱 [Kanban Board](./kanban-board)           | Frontend     | ReactJS, TailwindCSS                       | Interactive task board with column, task-based drag-and-drop UI |
 
 📁 Each project folder includes a `README.md` with system architecture, tech stack, features, screenshots, and setup instructions.
 
 ---
 
-## 💡 Technical Skills Built During PG-DAC Projects
+## 💡 Technical Skills Demonstrated Across Projects
 
 ### 🛠️ Full-Stack Development (MERN)
 
-- Created a full-stack food delivery app (**Food Fusion**) using **MongoDB, Express, React, and Node.js**
-- Integrated **Stripe Payment Gateway** for checkout and orders
-- Implemented **React Router** and conditional rendering for user/admin flows
-- Managed independent frontend and backend folders with clean architecture
+- Built **_Food Fusion_**, a full-stack food delivery app using **MongoDB, Express, React, and Node.js**
+- Integrated **Stripe Payment Gateway** for seamless checkout and order flow
+- Implemented **React Router**, protected routes, and conditional rendering for user/admin flows
+- Structured independent **frontend and backend folders** with modular, clean architecture
+
+---
+
+- Developed **_Holistic Wellbeing_**, a wellness course platform with **student/instructor roles**
+- Enabled **course creation**, **lecture uploads**, and **role-based access** using JWT and MongoDB
+- Integrated **Stripe** for paid course purchases and **Cloudinary** for secure video hosting
+- Designed RESTful APIs for scalable course, user, and lecture management
 
 ---
 
