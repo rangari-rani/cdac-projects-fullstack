@@ -21,7 +21,7 @@ This is the frontend application of Holistic Wellbeing, a MERN-based eLearning p
 ## 📁 Folder Structure 
 
 ```
-frontend/
+client/
 ├── public/
 ├── src/
 │ ├── app/           
