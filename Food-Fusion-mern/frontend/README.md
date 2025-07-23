@@ -20,6 +20,8 @@ This is the **frontend application** of Food Fusion, a MERN-based food delivery 
 - [**Stripe**](https://stripe.com/) – Secure checkout and payment gateway integration  
 - [**React Toastify**](https://fkhadra.github.io/react-toastify/introduction) – Toast notifications for user feedback  
 
+> ➡️ For full feature list and screenshots, check the [root README](../README.md).  
+
 ---
 
 ## 📁 Folder Structure 
