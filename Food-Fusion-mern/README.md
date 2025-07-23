@@ -42,22 +42,20 @@ Key highlights include:
 ## 📸 Screenshots
 
 ### Desktop Views
-![Product List Page](https://github.com/rangari-rani/Food-Fusion/blob/105186f572cd4616f726f0d7d4c066ff984dfc99/foodhome.png)  
+![Product List Page](https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/foodhome.png)  
 _Product List Page_
-![Cart Page](https://github.com/rangari-rani/Food-Fusion/blob/105186f572cd4616f726f0d7d4c066ff984dfc99/cartpage.png)  
+![Cart Page](https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/cartpage.png)  
 _Cart Page_
 ![Login Page](https://github.com/rangari-rani/Food-Fusion/blob/105186f572cd4616f726f0d7d4c066ff984dfc99/signinpage.png)  
-_Login Page_
-![Admin Food List](https://github.com/rangari-rani/Food-Ordering/blob/e8b89bbee2e16cb20c58aa64f7dbded1fc581203/food%20list.png)
-_Admin Page_
+_Login Page_  
 
 ### 📱 Mobile Views  
 <p align="center">
-  <img src="https://github.com/rangari-rani/Food-Fusion/blob/28ba6cfae4f769a0c88c83ec580be72c53af88c6/mobile_signin.png" alt="Mobile Signin Page" width="18%">
-  <img src="https://github.com/rangari-rani/Food-Fusion/blob/28ba6cfae4f769a0c88c83ec580be72c53af88c6/mobile_foodhome.png" alt="Mobile Product View" width="18%">
-  <img src="https://github.com/rangari-rani/Food-Fusion/blob/28ba6cfae4f769a0c88c83ec580be72c53af88c6/mobile_cartpage.png" alt="Mobile Cart Page" width="18%">
-  <img src="https://github.com/rangari-rani/Food-Fusion/blob/28ba6cfae4f769a0c88c83ec580be72c53af88c6/mobile_deliverypage.png" alt="Mobile Delivery Page" width="18%">
-  <img src="https://github.com/rangari-rani/Food-Fusion/blob/28ba6cfae4f769a0c88c83ec580be72c53af88c6/mobile_payment.png" alt="Mobile Payment Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/mobile_signin.png" alt="Mobile Signin Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/mobile_foodhome.png" alt="Mobile Product View" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/mobile_cartpage.png" alt="Mobile Cart Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/mobile_deliverypage.png" alt="Mobile Delivery Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/mobile_payment.png" alt="Mobile Payment Page" width="18%">
 </p>
 
 <p align="center"><em>Mobile responsive design screenshots</em></p>
