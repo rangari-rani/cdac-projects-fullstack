@@ -14,7 +14,7 @@ These projects reflect practical, hands-on training in full-stack development us
 | Project Name                             | Type         | Tech Stack                                | Description |
 |----------------------------------------- |--------------|--------------------------------------------|-------------|
 | 🍱[Food&nbsp;Fusion](./food-fusion)         | Full&nbsp;Stack | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
-| 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, HTML5 Drag & Drop, TailwindCSS    | Interactive task board with column-based drag-and-drop UI |
+| 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, TailwindCSS    | Interactive task board with column, task-based drag-and-drop UI |
 
 📁 Each project folder includes a `README.md` with system architecture, tech stack, features, screenshots, and setup instructions.
 
