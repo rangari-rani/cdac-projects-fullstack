@@ -20,6 +20,8 @@ This is the **backend application** of Food Fusion, built with **Node.js**, **Ex
 - **[Bcrypt.js](https://www.npmjs.com/package/bcryptjs)** – Password hashing  
 - **[Stripe](https://stripe.com/)** – Payment integration  
 
+> ➡️ For full feature list and screenshots, check the [root README](../README.md).
+
 ---
 
 ## 📂 Folder Structure
