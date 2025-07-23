@@ -7,7 +7,7 @@ This is the **frontend** portion of the **Food Fusion** food delivery web app, b
 
 ---
 
-## 🚀 Live Demo - [Visit on Render](https://food-ordering-frontend-wu7u.onrender.com/)
+## 🚀 Live Demo - [Try it on Render](https://food-ordering-frontend-wu7u.onrender.com/)
 
 ---
 
