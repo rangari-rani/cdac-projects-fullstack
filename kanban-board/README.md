@@ -35,8 +35,8 @@ While simple in scope, it highlights several important frontend skills:
 ## 📸 Screenshots  
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="Desktop View" width="55%" style="margin-right: 20px;" />
-  <img src="./screenshots/mobile_home.png" alt="Mobile View" width="30%" />
+  <img src="./screenshots/home.png" alt="Desktop View" height="380px" style="object-fit: contain; margin-right: 20px;" />
+  <img src="./screenshots/mobile_home.png" alt="Mobile View" height="380px" style="object-fit: contain;" />
 </div>
 
 ---
