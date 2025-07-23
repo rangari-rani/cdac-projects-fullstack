@@ -15,7 +15,7 @@
 
 ## 📚 About This Project
 
-**Food Fusion** was built shortly after completing my **PG-DAC training at CDAC (2023)** as a hands-on dive into the **MERN stack**, which was part of the course curriculum. The goal was to strengthen full-stack fundamentals through a practical, real-world food delivery system.
+**Food Fusion** was built after completing my **PG-DAC training at CDAC (2023)** as a hands-on dive into the **MERN stack**, which was part of the course curriculum. The goal was to strengthen full-stack fundamentals through a practical, real-world food delivery system.
 
 Key highlights include:
 - Role-based access (User/Admin) with secure JWT authentication
