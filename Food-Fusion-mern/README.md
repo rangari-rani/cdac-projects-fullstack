@@ -81,9 +81,9 @@ _Admin Page_
 
 This project was my first complete full-stack build, combining both frontend and backend logic in a real-world use case—user registration, authentication, cart flow, and admin controls.
 
-After this, I shifted focus toward building **enterprise-grade full-stack applications** using **ReactJS and Spring Boot**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
+After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
 
-📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and React.**
+📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and ReactJS.**
 
 ---
 
