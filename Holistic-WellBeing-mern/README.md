@@ -1,4 +1,4 @@
-# Holistic Wellbeing – MERN Stack Health & Mindfulness App
+# 🧘‍♀️ Holistic Wellbeing – MERN Stack Health & Mindfulness App
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
