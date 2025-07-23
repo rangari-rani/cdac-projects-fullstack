@@ -66,6 +66,6 @@ These projects helped me:
 
 ## 📬 Contact
 
-🎓 This repository features full-stack projects inspired by the PG-DAC 2023 curriculum.
+🎓 This repository features full-stack projects inspired by the PG-DAC 2023 curriculum.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider leaving a ⭐!
