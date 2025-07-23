@@ -21,22 +21,20 @@ This is the admin dashboard of Food Fusion, a MERN-based food delivery platform.
 
 ## 📸 Screenshots
 
-![Home Page](https://github.com/rangari-rani/artisans-collectives/blob/702760e6aec5c2358f54f7878e803c1e76177934/artisans-collective/public/homepage.png)
-_Product List Page_
-![Collection Page](https://github.com/rangari-rani/artisans-collectives/blob/702760e6aec5c2358f54f7878e803c1e76177934/artisans-collective/public/collection.png)
-_Collection Page_
-![Product Page](https://github.com/rangari-rani/artisans-collectives/blob/702760e6aec5c2358f54f7878e803c1e76177934/artisans-collective/public/product.png)
-_Product Page_
-![Cart Page](https://github.com/rangari-rani/artisans-collectives/blob/702760e6aec5c2358f54f7878e803c1e76177934/artisans-collective/public/cart.png)
-_Cart Page_
+![Home Page](https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_add.png)
+_Admin - Add Product_
+![Collection Page](https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_list.png)
+_Admin - List Products_
+![Product Page](https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_orders.png)
+_Admin - Orders Page_  
 
 ### Mobile Views
 <p align="center">
-  <img src="https://github.com/rangari-rani/artisans-collectives/blob/aaea177e1388238a67914350999e81638eae26fb/artisans-collective/public/home_mobile.png" alt="Mobile Product List" width="22%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_add_mobile.png" alt="Mobile Product List" width="22%">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/rangari-rani/artisans-collectives/blob/aaea177e1388238a67914350999e81638eae26fb/artisans-collective/public/product_mobile.png" alt="Mobile Product View" width="22%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_list_mobile.png" alt="Mobile Product View" width="22%">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/rangari-rani/artisans-collectives/blob/aaea177e1388238a67914350999e81638eae26fb/artisans-collective/public/cart_mobile.png" alt="Mobile Login" width="22%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/50bc1df420561d5193461c74d14bcd5c80c860ef/Food-Fusion-mern/admin_orders_mobile.png" alt="Mobile Login" width="22%">
   
 </p>
 _Mobile responsive design screenshots_
