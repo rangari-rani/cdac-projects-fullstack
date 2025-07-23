@@ -1,11 +1,11 @@
 # 🎓 Academic Projects – PG-DAC (CDAC Nagpur, India – 2023) [![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
 
 Welcome to my collection of academic projects developed during the **Post Graduate Diploma in Advanced Computing (PG-DAC)** program at **SoftPolynomials, Nagpur** — an authorized training center under **CDAC (Centre for Development of Advanced Computing)** in 2023.  
-> 🕒 _Originally developed during PG-DAC in 2023 — later organized and published for transparency, learning, and portfolio presentation._
+> 🕒 _This repository includes full-stack projects aligned with the PG-DAC 2023 curriculum._   
+> 💡 _Some implementations were developed or refined post-training to reinforce concepts and expand hands-on experience._   
+> 📚 _Later organized and published for transparency, learning, and portfolio presentation._  
 
-These projects reflect practical, hands-on training in full-stack development using modern frameworks like ReactJS, Spring Boot, and the MERN stack.
-
-> 🌐 View the full CDAC Portfolio UI: [mca-ranirangari-portfolio.vercel.app](https://cdac-ranirangari-portfolio.vercel.app/)
+> 🌐 View the full CDAC Portfolio UI: [cdac-ranirangari-portfolio.vercel.app](https://cdac-ranirangari-portfolio.vercel.app/)
 
 ---
 
