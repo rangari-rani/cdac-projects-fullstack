@@ -3,7 +3,7 @@
 [![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
 
 
-A focused collection of full-stack and frontend projects built during and after my Post Graduate Diploma in Advanced Computing (PG-DAC) at **CDAC – SoftPolynomials, Nagpur** in 2023.
+A focused collection of full-stack projects built during and after my Post Graduate Diploma in Advanced Computing (PG-DAC) at **CDAC – SoftPolynomials, Nagpur** in 2023.
 
 This compilation reflects my transition from academic learning to building industry-aligned, full-stack applications using modern tools and clean architectural practices.
 
@@ -20,19 +20,12 @@ This compilation reflects my transition from academic learning to building indus
 
 ## 📁 Projects Overview
 
-| Project Name                             | Type         | Tech Stack                                | Description |
-|----------------------------------------- |--------------|--------------------------------------------|-------------|
-| 🍱[Food&nbsp;Fusion](./food-fusion)         | Full&nbsp;Stack | MongoDB, ExpressJS, ReactJS, Node.js       | Food delivery platform with user/admin roles, Stripe payments, and product flow |
-| 🧱&nbsp;[Kanban&nbsp;Board](./kanban-board)       | Frontend     | ReactJS, TailwindCSS    | Interactive task board with column, task-based drag-and-drop UI |
-
----
-
-## 🛠️ Tech Stack Summary
-
-- **Frontend Development**: ReactJS, Tailwind CSS, Material-UI
-- **Backend Development**: Java, Spring Boot, REST APIs
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, Postman, VS Code, IntelliJ 
+| Project Name                                            | Type         | Tech Stack                                  | Description |
+|--------------------------------------------------------|--------------|----------------------------------------------|-------------|
+| 🏗&nbsp;[Project&nbsp;Execution&nbsp;Hub](./Project-Execution-Hub) | Full Stack   | Java, Spring Boot, ReactJS, MySQL            | Plan technical projects, assign tasks, manage teams, and filter progress dynamically|
+| 🧱 [Kanban Board](./kanban-board)                | Frontend     | ReactJS, TailwindCSS                         | Interactive task board with column, task-based drag-and-drop UI |
+| 🍱 [Food Fusion](./food-fusion)                  | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js         | Food delivery platform with user/admin roles, Stripe payments, and product flow |
+| 💆‍♀️ [Holistic Wellbeing](./holistic-wellbeing) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js, | E-learning wellness platform with secure payments, role-based access, and video content via Cloudinary |
 
 ---
 
@@ -40,16 +33,14 @@ This compilation reflects my transition from academic learning to building indus
 
 ```bash
 academic-projects-cdac/
+├── Project-Execution-Hub/
 ├── Food-Fusion-mern/
+├── Holistic-Wellbeing-mern/
 ├── kanban-board/
 └── README.md
 ```
 
 ---
-
-## 📌 Notes  
-- Emphasis on clean code, modular architecture, and hands-on problem-solving.
-- Some projects may have limitations due to time constraints — they were designed primarily for learning and skill-building.
 
 
 ## 📜 License
