@@ -15,8 +15,8 @@ Welcome to my curated collection of full-stack projects inspired by the **Post G
 |--------------------------------------------------------|--------------|----------------------------------------------|-------------|
 | 🏗&nbsp;[Project&nbsp;Execution&nbsp;Hub](./Project-Execution-Hub) | Full Stack   | Java, Spring Boot, ReactJS, MySQL            | Plan technical projects, assign tasks, manage teams, and filter progress dynamically|
 | 🧱 [Kanban Board](./kanban-board)                | Frontend     | ReactJS, TailwindCSS                         | Interactive task board with column, task-based drag-and-drop UI |
-| 🍱 [Food Fusion](./food-fusion)                  | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js         | Food delivery platform with user/admin roles, Stripe payments, and product flow |
-| 💆‍♀️ [Holistic Wellbeing](./holistic-wellbeing) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js | E-learning platform with student/instructor roles, paid course access, and secure lecture uploads. |
+| 🍱 [Food Fusion](./Food-Fusion-mern)                  | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js         | Food delivery platform with user/admin roles, Stripe payments, and product flow |
+| 💆‍♀️ [Holistic Wellbeing](./Holistic-WellBeing-mern) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js | E-learning platform with student/instructor roles, paid course access, and secure lecture uploads. |
 
 📁 Each project folder includes a `README.md` with system architecture, tech stack, features, screenshots, and setup instructions.
 
