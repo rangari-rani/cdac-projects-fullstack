@@ -53,7 +53,7 @@ _Dashboard Page_
 <p align="center">
   <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/signinpage_mobile.png" alt="Mobile Signin Page" width="18%">
   <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/homepage_mobile.png" alt="Mobile Product View" width="18%">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/coursepage_mobile.png alt="Mobile Cart Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/coursepage_mobile.png" alt="Mobile Cart Page" width="18%">
   <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/lecturespage_mobile.png" width="18%">
   <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/addcourse_mobile.png" alt="Mobile Payment Page" width="18%">
 </p>
