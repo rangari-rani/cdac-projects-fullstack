@@ -38,24 +38,24 @@ Key highlights include:
 ## 📸 Screenshots
 
 ### Desktop Views
-![Home Page](https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/homepage.png)  
+![Home Page](https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/homepage.png)  
 _Home Page_
-![Course Page](https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/coursepage.png)  
+![Course Page](https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/coursepage.png)  
 _Course Page_
-![Lectures Page](https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/lecturespage.png)  
+![Lectures Page](https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/lecturespage.png)  
 _Lectures Page_  
-![Add Course](https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/addcourse.png)  
+![Add Course](https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/addcourse.png)  
 _Add Course Page_  
-![Dashboard](https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/dashboard.png)  
+![Dashboard](https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/dashboard.png)  
 _Dashboard Page_  
 
 ### 📱 Mobile Views  
 <p align="center">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/signinpage_mobile.png" alt="Mobile Signin Page" width="18%">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/homepage_mobile.png" alt="Mobile Product View" width="18%">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/lecturespage_mobile.png" alt="Mobile Cart Page" width="18%">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/addcourse_mobile.png" width="18%">
-  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/6cd5a48f3e9544c5581bfcb9ce7f60beebc5888c/Holistic-WellBeing-mern/screenshots/coursepage_mobile.png" alt="Mobile Payment Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/signinpage_mobile.png" alt="Mobile Signin Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/homepage_mobile.png" alt="Mobile Product View" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/coursepage_mobile.png alt="Mobile Cart Page" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/lecturespage_mobile.png" width="18%">
+  <img src="https://github.com/rangari-rani/academic-projects-cdac/blob/44b577c3397b96eeda144d781ff0d22692800ff2/Holistic-WellBeing-mern/screenshots/addcourse_mobile.png" alt="Mobile Payment Page" width="18%">
 </p>
 
 <p align="center"><em>Mobile responsive design screenshots</em></p>
