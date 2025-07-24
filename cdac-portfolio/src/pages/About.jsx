@@ -13,20 +13,20 @@ const About = () => {
 </h1>
 
 
-  <p className="mt-5">
-    I'm a developer from <strong> Nagpur, India </strong>, and this portfolio features the projects I built during my
-    <strong> CDAC (Centre for Development of Advanced Computing)</strong> training – Postgraduate Diploma in Advanced Computing, 2023.
-  </p>
- <br/>
-  <p>
-    After completing my <strong>MCA (Master in Computer Applications) in 2022</strong>, CDAC helped me apply those foundations to
-    <strong> industry-level, real-world projects</strong> — from scalable web apps to robust backend systems and secure REST APIs.
-  </p>
-
+<p className="mt-5">
+  I'm a tech enthusiast from <strong>Nagpur, India</strong> with a background in
+  Master’s in Computer Applications. This portfolio highlights projects I built during
+   CDAC (Centre for Development of Advanced Computing) training and independent learning.
+</p>
 <br/>
-  <p>
-    <em>Code matured, skills sharpened — this portfolio marks my transition toward production-grade engineering.</em>
-  </p>
+<p>
+  These projects helped me transition from theory to practice — exploring full-stack development, backend systems and
+   API integrations.
+</p>
+
+
+
+
 </div>
 
 

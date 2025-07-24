@@ -13,7 +13,7 @@ const Projects = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        Developed during CDAC, these projects showcase my shift from academic theory to hands-on, real-world software development.
+        These projects reflect my transition from academic foundations to building practical, real-world full-stack applications.
         </p>
       </div>
 

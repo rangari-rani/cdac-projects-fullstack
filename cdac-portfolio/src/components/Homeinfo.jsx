@@ -20,26 +20,27 @@ const renderContent = {
   ),
   2: (
     <InfoBox
-      text="This animated site was my first attempt at frontend design during CDAC 2023."
+      text="This animated site was part of my CDAC learning phase — where I deepened my frontend skills."
       link="/about"
       btnText="More About This"
     />
   ),
   3: (
     <InfoBox
-      text="I'm currently building full-stack apps. This is where it all started!"
+      text="I'm currently building full-stack apps — this portfolio marks the phase where things got real!"
       link="/about"
-      btnText="See Early Work"
+      btnText="See Project Phase"
     />
   ),
   4: (
     <InfoBox
-      text="Want to see my latest projects? Visit my main GitHub or LinkedIn!"
+      text="Want to see more of my work? Check out my latest projects on GitHub or LinkedIn!"
       link="https://github.com/rangari-rani"
       btnText="Explore More"
     />
   ),
 };
+
 
 const Homeinfo = ({ currentStage }) => {
   return renderContent[currentStage] || null;
