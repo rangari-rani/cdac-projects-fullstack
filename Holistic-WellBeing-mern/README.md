@@ -114,7 +114,7 @@ cd Holistic-Wellbeing-mern
 ## 2. Start the backend
 
 ```bash
-cd backend
+cd server
 npm install
 cp .env.example .env      # Fill in your Mongo URI, Stripe key, etc.
 npm run dev
@@ -123,7 +123,7 @@ npm run dev
 ## 3. Start the frontend
 
 ```bash
-cd ../frontend
+cd client
 npm install
 npm run dev
 ```
