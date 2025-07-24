@@ -74,7 +74,7 @@ _Dashboard Page_
 ### 🎓 Instructor Features  
 - 🔐 Instructor login (after role update in MongoDB)
 - 📊 Dashboard showing: Sales, Revenue
-- ➕ Add new courses with: Title, description, price, lecture videos (uploaded via **Cloudinary**)
+- ➕ Add new courses with: Title, description, price, lecture videos
 - 🚀 Publish/unpublish courses
 
 ---
@@ -93,10 +93,10 @@ After this, I shifted focus toward building **enterprise-grade full-stack applic
 
 This repository is organized into multiple folders, each with its own README to help you get started quickly and understand that part of the project:
 
-- [Backend (Node.js + Express) README](backend/README.md)  
+- [Backend (Node.js + Express) README](server/README.md)  
   Detailed instructions to build, run, and test the backend API.
 
-- [Frontend (React + Vite) README](frontend/README.md)  
+- [Frontend (React + Vite) README](client/README.md)  
   Setup and run instructions for the frontend UI.
   
 ---
