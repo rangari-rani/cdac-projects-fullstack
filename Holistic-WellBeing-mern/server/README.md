@@ -38,7 +38,7 @@ server/
 ├── uploads/          → Folder to store uploaded files (e.g., product images)
 ├── utils/            → Cloudinary.js
 ├── .env.example      → Sample environment file for required secrets
-├── index.js         → Main server entry point that runs the Express app
+├── index.js          → Main server entry point that runs the Express app
 ```
 
 ---
