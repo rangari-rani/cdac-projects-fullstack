@@ -25,7 +25,7 @@ This compilation reflects my transition from academic learning to building indus
 | 🏗&nbsp;[Project&nbsp;Execution&nbsp;Hub](./Project-Execution-Hub) | Full Stack   | Java, Spring Boot, ReactJS, MySQL            | Plan technical projects, assign tasks, manage teams, and filter progress dynamically|
 | 🧱 [Kanban Board](./kanban-board)                | Frontend     | ReactJS, TailwindCSS                         | Interactive task board with column, task-based drag-and-drop UI |
 | 🍱 [Food Fusion](./food-fusion)                  | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js         | Food delivery platform with user/admin roles, Stripe payments, and product flow |
-| 💆‍♀️ [Holistic Wellbeing](./holistic-wellbeing) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js, | E-learning wellness platform with secure payments, role-based access, and video content via Cloudinary |
+| 💆‍♀️ [Holistic Wellbeing](./holistic-wellbeing) | Full Stack   | MongoDB, ExpressJS, ReactJS, Node.js | E-learning platform with student/instructor roles, paid course access, and secure lecture uploads. |
 
 ---
 
@@ -51,6 +51,5 @@ academic-projects-cdac/
 
 ## 📬 Contact  
 
-This portfolio showcases projects built during and after my **PG-DAC training (2023)**.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found it helpful or inspiring, feel free to leave a ⭐!
