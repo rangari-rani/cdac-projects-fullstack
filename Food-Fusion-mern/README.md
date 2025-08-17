@@ -148,6 +148,5 @@ npm run dev
 
 ## 📬 Contact
 
-Built as part of my full-stack learning journey after completing CDAC (2023).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
