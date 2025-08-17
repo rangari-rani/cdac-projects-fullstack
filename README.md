@@ -1,6 +1,6 @@
-# 🎓 Academic Projects – PG-DAC (CDAC Nagpur, India – 2023) [![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
+# 🎓 Academic Projects – PG-DAC (CDAC)
 
-Welcome to my curated collection of full-stack projects inspired by the **Post Graduate Diploma in Advanced Computing (PG-DAC)** curriculum at **SoftPolynomials, Nagpur** — an authorized training center under **CDAC (Centre for Development of Advanced Computing)** in 2023.  
+Welcome to my curated collection of full-stack projects inspired by the **Post Graduate Diploma in Advanced Computing (PG-DAC)** — an authorized training center under **CDAC (Centre for Development of Advanced Computing)**.  
  
 > 💡 _Some implementations were refined post-training to reinforce concepts and expand hands-on experience._   
 > 📚 _Later organized and published for transparency, learning, and portfolio presentation._  
@@ -91,6 +91,5 @@ These projects helped me:
 
 ## 📬 Contact
 
-🎓 This repository features full-stack applications built during and after the PG-DAC 2023 journey.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider leaving a ⭐!
