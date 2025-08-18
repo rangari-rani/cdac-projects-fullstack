@@ -12,7 +12,6 @@ A full-stack web application that enables users to explore, purchase, and access
 
 ## 📚 About This Project
 
-**Holistic Wellbeing** is a full-stack wellness course platform built in 2024, after completing my **PG-DAC training at CDAC (2023)**.   
 This self-initiated MERN stack project was designed to simulate real-world e-learning platforms, integrating authentication, payments, and role-based dashboards.
 
 Key highlights include:
@@ -139,7 +138,6 @@ npm run dev
 ---
 
 ## 📬 Contact
-
-Built as part of my full-stack learning journey after completing CDAC (2023).   
+ 
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
