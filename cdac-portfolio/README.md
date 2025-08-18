@@ -1,14 +1,11 @@
-# 💼 Academic Portfolio – PG-DAC (CDAC Nagpur, India – 2023)  
-[![Built with ReactJS](https://img.shields.io/badge/Built_with-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![PG-DAC](https://img.shields.io/badge/PG--DAC_(2023)-CDAC_Nagpur,_India-blue)](https://www.cdac.in/)
+# 💼 Academic Portfolio – PG-DAC (CDAC)  
 
-
-A focused collection of full-stack projects built during and after my Post Graduate Diploma in Advanced Computing (PG-DAC) at **CDAC – SoftPolynomials, Nagpur** in 2023.
+A focused collection of full-stack projects built during and after my Post Graduate Diploma in Advanced Computing (PG-DAC) at **CDAC**.
 
 This compilation reflects my transition from academic learning to building industry-aligned, full-stack applications using modern tools and clean architectural practices.
 
 > ✨ From core programming to full-stack development — CDAC helped bridge theory with hands-on, industry-relevant project experience.
-> 🕒 Originally built in 2023 and later organized, refined, and published for clarity, learning, and portfolio presentation.
+> 🕒 Originally built during CDAC and later organized, refined, and published for clarity, learning, and portfolio presentation.
 
 ---
 
