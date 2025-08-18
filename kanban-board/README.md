@@ -121,6 +121,5 @@ npm run dev
 
 ## 📬 Contact
 
-Built as part of continued frontend exploration after CDAC (2024).     
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
