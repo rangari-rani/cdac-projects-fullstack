@@ -11,7 +11,7 @@ A full-stack web application for collaborative project planning and task executi
 
 ## 📚 About This Project
 
-**Project Execution Hub** is a collaborative task and team management platform built using **Spring Boot** and **React** during my **PG-DAC training at CDAC (2023)**.  
+**Project Execution Hub** is a collaborative task and team management platform built using **Spring Boot** and **React** during my **PG-DAC training at CDAC**.    
 
 Key highlights include:  
 - ✅ Dynamic project creation with categories (Frontend, Backend, Full Stack)
@@ -131,6 +131,5 @@ npm run dev
 
 ## 📬 Contact
 
-🎓 Built as part of PG-DAC (CDAC) academic learning, 2023.   
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
