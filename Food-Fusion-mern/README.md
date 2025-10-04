@@ -74,16 +74,6 @@ _Login Page_
 
 ---
 
-## 🔄 What Came Next
-
-This project is a complete full-stack build, combining both frontend and backend logic in a real-world use case—user registration, authentication, cart flow, and admin controls.
-
-After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
-
-📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and ReactJS.**
-
----
-
 ## 📁 Project Structure & Detailed Documentation
 
 This repository is organized into multiple folders, each with its own README to help you get started quickly and understand that part of the project:
