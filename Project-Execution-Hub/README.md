@@ -70,16 +70,6 @@ _Pricing Page_
 
 ---
 
-## 🔄 What Came Next
-
-This project helped me apply full-stack skills in the context of real-time team collaboration—featuring project planning, member roles, and status-based task handling.  
-
-After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
-
-📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and ReactJS.**
-
----
-
 ## 📁 Project Structure & Detailed Documentation
 
 This repository is organized into multiple folders, each with its own README to help you get started quickly and understand that part of the project:
