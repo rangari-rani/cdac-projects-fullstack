@@ -45,7 +45,7 @@ frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-cdac.git
+git clone https://github.com/rangari-rani/cdac-projects-fullstack.git
 cd Food-Fusion-mern/frontend
 ```
 
