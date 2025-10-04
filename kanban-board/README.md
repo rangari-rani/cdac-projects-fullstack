@@ -51,16 +51,6 @@ While simple in scope, it highlights several important frontend skills:
 
 ---
 
-## 🔄 What Came Next
-
-This Kanban board project marked a key transition from frontend learning to building complete, real-world applications with deeper interactivity and structure.  
-
-After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
-
-📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**
-
----
-
 ## 📁 Folder Structure 
 
 ```
@@ -84,7 +74,7 @@ kanban-board/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-cdac.git
+git clone https://github.com/rangari-rani/cdac-projects-fullstack.git
 cd kanban-board
 ```
 
@@ -102,14 +92,6 @@ npm run dev
 
 > The app will be available at:  
 > 🌐 http://localhost:5173
-
----
-
-## ⚠️ Limitations  
-
-- No data is saved after page refresh
-- No login or user-specific access
-- Tasks support only basic text, no labels or due dates
 
 ---
 
