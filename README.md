@@ -58,31 +58,6 @@ Welcome to my curated collection of full-stack projects inspired by the **Post G
 
 ---
 
-## 📚 Current Tech Focus  
-
-Building modular, production-grade apps using Spring Boot + ReactJS.   
-
-📌 **Explore my [pinned GitHub repositories](https://github.com/rangari-rani) to see how the skills gained during CDAC evolved into independent full-stack platforms.** 
-
----
-
-## 🧠 Reflection: Why These Projects Matter
-
-These projects helped me:
-
-- Gain confidence in full-stack development beyond academic setups  
-- Work with backend frameworks, frontend libraries, and REST APIs  
-- Collaborate using Git/GitHub workflows  
-- Explore modular architecture and clean code structure
-
----
-
-## 🔗 Related Repositories  
-
-🧩 [Monolithic Full-Stack Project (Spring Boot + React)](https://github.com/rangari-rani/wellness_cart)
-
----
-
 ## 📜 License
 
 [MIT License](LICENSE)
