@@ -78,16 +78,6 @@ _Dashboard Page_
 
 ---
 
-## 🔄 What Came Next
-
-This project is a complete full-stack build, integrating both frontend and backend logic for a real-world learning platform—user authentication, course browsing, Stripe checkout, video lectures, and instructor dashboard with revenue tracking.
-
-After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
-
-📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and ReactJS.**
-
----
-
 ## 📁 Project Structure & Detailed Documentation
 
 This repository is organized into multiple folders, each with its own README to help you get started quickly and understand that part of the project:
@@ -106,7 +96,7 @@ Make sure MongoDB is running locally or use MongoDB Atlas.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-cdac.git
+git clone https://github.com/rangari-rani/cdac-projects-fullstack.git
 cd Holistic-Wellbeing-mern
 ```
 
